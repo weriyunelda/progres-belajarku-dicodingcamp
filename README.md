@@ -12,3 +12,10 @@ Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang software (Progr
 -Belajar tentang Konsep Dasar Pemrograman simulai dari sintaksis, case sensitive, statement, keyword, pseudocode, variabel dan whitespace<br>
 -Belajar tentang Logika Pemrograman seperti logika perbandingan menggunakan IF/ELSE dan logika perulangan menggunakan For dan While<br>
 -Belajar tentang Pengenalan JavaScript dimulai dari sejarah, fungsi, dan juga mengimplementasikan variabel, tipe data serta function dalam JavaScript<br>
+
+**12 Februari 2026**<br>
+Belajar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang software (Progres 100%)<br>
+-Belajar cara mendokumentasikan atau mengarsipkan pengembangan aplikasi perangkat lunak dengan tools Version Control System (VCS)<br>
+-Balajar aturan penulisan dokumentasi dengan Style Guide<br>
+-Belajar menggunakan JSDocs sebagai dokumentasi teknis aplikasi<br>
+-Mengerjakan ujian akhir untuk menguji kemahiran diri
